@@ -1,6 +1,6 @@
 ![logo](https://github.com/AmolkulkarniAK/AmolKulkarniAK/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner_20240831_141842_0000.png)
 <h1 align="center">Hi 👋, I'm Amol Kulkarni</h1>
-<h3 align="center">A passionate Software Test Engineer from India</h3>
+<h3 align="center">A Passionate Software Test Engineer From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1npYiJbeqcCDBBn7TATdqZ8thMpiDyKqM/view?usp=sharing">
 
